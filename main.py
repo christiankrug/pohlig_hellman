@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 from sympy import primefactors, mod_inverse
-from sympy.ntheory.modular import crt, solve_congruence
 
 # DHKE public parameters
 # Prime p
